@@ -1,0 +1,7 @@
+Student Name: Pacifique Kabanda
+GitHub Username: kabandapacifique
+Repository: SE103-Week5
+Repository URL: https://github.com/kabandapacifique/SE103-Week5
+All required files are on main: Yes
+One thing I would improve next time:
+Next time, I would check all required commit messages and file names against the assignment before committing. I would also review my work more carefully before pushing so that I can catch small mistakes earlier.
