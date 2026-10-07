@@ -1,0 +1,13 @@
+Student Name: Pacifique Kabanda
+
+What I practiced in the shell:
+I practiced using redirection operators to create files and save command output. I used grep to search for specific text and find to locate files with a particular pattern. I also practiced using pipes to send the output of one command into another command. I learned how to use wildcards carefully when selecting multiple files. These exercises helped me become more comfortable working with files and directories from the command line.
+
+How GitHub changed my submission habits:
+GitHub helped me understand the importance of keeping my work organized and using clear file and folder names. I learned that commit messages can be important because the required wording may be checked exactly. I also became more careful about checking my repository status before pushing changes. Using branches and pull requests showed me how changes can be reviewed before they are merged into the main project. This made my submission process more structured and organized.
+
+One mistake I made and how I fixed it:
+I made a mistake in one of my commit messages by using an uppercase letter in the word Wildcard. The required commit message used lowercase, so my message did not exactly match the assignment requirement. I fixed the mistake by amending the commit message and updating the remote branch. This taught me to copy required commit messages carefully and check them before pushing.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to be exactly SE103-Week5 so that the course checker could find the correct repository. Following the required name also made sure that my submission matched the project instructions.
