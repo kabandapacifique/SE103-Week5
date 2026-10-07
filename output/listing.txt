@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 dev_arnaud dev_arnaud 4096 Oct  7 06:56 .
+drwxrwxr-x 7 dev_arnaud dev_arnaud 4096 Oct  7 06:24 ..
+-rw-rw-r-- 1 dev_arnaud dev_arnaud    0 Oct  7 06:25 .gitkeep
+-rw-rw-r-- 1 dev_arnaud dev_arnaud  214 Oct  7 06:56 journal.txt
