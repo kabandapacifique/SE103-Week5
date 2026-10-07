@@ -1,0 +1,4 @@
+Full Name: Pacifique Kabanda
+GitHub Username: kabandapacifique
+Date Started: 10/07/2026
+Auth Method: SSH
